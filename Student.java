@@ -10,5 +10,7 @@ public class Student {
         System.out.println("=======================");
         System.out.println("GOOD MRONING");
         System.out.println("THANK YOU");
+        System.out.println("THANK YOU");
+        System.out.println("THANK YOU");
     }
 }
